@@ -1,0 +1,8 @@
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.dll
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.pdb
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.UserControl1.resources
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.dll
+C:\Users\Joyce\source\repos\DemoCalculatorLib\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.pdb
